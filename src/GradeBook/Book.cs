@@ -17,7 +17,7 @@ namespace GradeBook
             grades.Add(grade);
         }
 
-        
+        // New comment added! Just testing
         public Statistics GetStatistics()
         {
             var result = new Statistics();
